@@ -1,1 +1,2 @@
-Das ist mein Testdokument.
+Das ist ein Testdokument. Mein Test.
+Jetzt ändere ich mal was.
